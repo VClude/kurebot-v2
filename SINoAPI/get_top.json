@@ -1,0 +1,99 @@
+{
+    "payload": {
+        "bannerMstId": 1223,
+        "guildData": {
+            "autoExpulsionType": 0,
+            "beforeGvgTimeType": 0,
+            "createdTime": 1622411170,
+            "currentGuildTitleMstId": 908075,
+            "favoriteAkbMember": 0,
+            "guildCountryCode": 76,
+            "guildDataId": 61364,
+            "guildDescription": "Chill People only",
+            "guildExp": 1133792660,
+            "guildIdentifierId": "25qyfb",
+            "guildLanguageUserCode": 3,
+            "guildLevel": 100,
+            "guildMasterUserId": 996251768,
+            "guildName": "Saltellia",
+            "guildPoint": 1133792660,
+            "guildRank": 4,
+            "gvgDraw": 0,
+            "gvgLose": 83,
+            "gvgPushCallComment": "Colo to leech TC\uff65\uff9f\uff65\uff61",
+            "gvgTimeType": 2048,
+            "gvgWin": 192,
+            "isAutoAccept": false,
+            "isGvgPushCall": false,
+            "isRecording": true,
+            "isRecruit": true,
+            "joinMember": 15,
+            "maxMember": 15,
+            "siegeHpBonus": 84000,
+            "subscriptionActionType": 14,
+            "subscriptionComment": "Also known as Taxellia| LF Cler: 160k def",
+            "subscriptionGvgJoinType": 2,
+            "subscriptionPowerType": 2,
+            "subscriptionStyleType": 4,
+            "tacticsDescription": "Welcome on board!\nPlease contact GM/sub for discord link.\nNo CPU allowed in GC days, contact GM/sub for backups!"
+        },
+        "gvgLoginBonusData": null,
+        "gvgRankSubMsg": "Demotion at 5 losses",
+        "gvgSchedule": [
+            {
+                "battleEndTime": 1646227199,
+                "battleNum": 312,
+                "battleStartTime": 1646226000,
+                "enemyInfo": false,
+                "guildDataCountryCodeA": 76,
+                "guildDataCountryCodeB": 0,
+                "guildDataIdA": 61364,
+                "guildDataIdB": 43364,
+                "guildDataNameA": "Saltellia",
+                "guildDataNameB": "LunaTear",
+                "gvgDataId": 2716054,
+                "isEndBattle": false,
+                "isMatchingFinished": true,
+                "isParticipating": 0,
+                "isWgcFinalTournamentParticipation": false,
+                "partySequence": 2,
+                "totalGuildPointA": 0,
+                "totalGuildPointB": 0,
+                "totalGuildPowerA": 21300000,
+                "totalGuildPowerB": 21300000
+            }
+        ],
+        "gvgUltimateArtInfoList": [
+            {
+                "gvgDataId": 2716054,
+                "gvgUltimateArtDataList": [
+                    {
+                        "artMstId": 5,
+                        "guildACount": 0,
+                        "guildBCount": 0,
+                        "ultimateArtMethodMstId": 5
+                    },
+                    {
+                        "artMstId": 23,
+                        "guildACount": 0,
+                        "guildBCount": 0,
+                        "ultimateArtMethodMstId": 23
+                    }
+                ]
+            }
+        ],
+        "isCalculateFinished": true,
+        "isInBattle": false,
+        "isOpenGuildBoxGacha": true,
+        "judgeLosePoint": 5,
+        "judgeWinPoint": 5,
+        "loseCount": 2,
+        "nextGvgLoginBonusRewardMstId": 0,
+        "nextGvgTime": 1646226000,
+        "rank": 4,
+        "status": 1,
+        "winCount": 2
+    },
+    "status": 200,
+    "url": "/api/gvg_out_battle/get_top"
+}

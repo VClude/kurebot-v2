@@ -1,0 +1,6 @@
+APP_VERSION = '27.1.0' # app version
+UUID_PAYMENT = '85952362683584997422fba93ba5b157311d0fd2b73bd02' # app id + payment uuid.
+AES_KEY = b'E0pBnbdmU9+rLfQ4' # RE with IDA or Frida
+SESSION_ID = '86b121e8e3891dba2b4b9d1b062da4bf' # 32 bytes string, changes every time you enter the game
+USER_ID = 486045175 # 9 bytes int
+PRIV_KEY = 'MIIBVgIBADANBgkqhkiG9w0BAQEFAASCAUAwggE8AgEAAkEA4hcl/54yCHyWVzTYBXxDAAIE0tIEZkyj4fLcdWxmzAbCbJQgZRB8XF8uZg5/dRPFnxQe5ZdWGZO9YeaZOeeJwQIDAQABAkEApjnOvjlZH9Q51LQNfzr1J7RUR4wRoAUJGL6uR8cDbUzJFI/2VBrhJhrIpqHqZTUwW4tFzyaZh1WWgiiplPLS4QIhAPbGaUlzqphKXdh7QaES8OJlPUdwOxn+GoiPhCM3x85XAiEA6orKFfRTCKkrjGZCjlp84YWapi8JIungVPS7ZsMcKacCIQCVYszvyxZVdIdU+mBjWqz50CGFcnpEpN95Fa//BdBtpwIhAI4NY1oqsYPEWjDd2p+3ZH1+2uyd/k2cExfBZiNWNp9vAiALmHDYW2j6XosQQz7zIJiun4TvaYQYEbzJHwLskRTATQ==' # 460 bytes string

@@ -1,0 +1,1225 @@
+{
+    "payload": {
+        "guildRankingRewardList": [],
+        "guildRewardList": [
+            {
+                "cardType": 0,
+                "clearPoint": 250,
+                "isClear": true,
+                "num": 20,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1520,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1525,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 5000,
+                "isClear": true,
+                "num": 50000,
+                "objectId": 0,
+                "objectType": 5,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 7500,
+                "isClear": true,
+                "num": 2,
+                "objectId": 1520,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 12500,
+                "isClear": true,
+                "num": 2,
+                "objectId": 1525,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 17500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 24,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 25000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 11,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 32500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 28,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 42500,
+                "isClear": true,
+                "num": 20,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 52500,
+                "isClear": true,
+                "num": 3,
+                "objectId": 1520,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 57500,
+                "isClear": true,
+                "num": 3,
+                "objectId": 1525,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 62500,
+                "isClear": true,
+                "num": 5,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 72500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1526,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 82500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 12,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 97500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 24,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 112500,
+                "isClear": true,
+                "num": 30,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 120000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 28,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 127500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1334,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 142500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1539,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 157500,
+                "isClear": true,
+                "num": 30,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 180000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1533,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 195000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1536,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 211250,
+                "isClear": true,
+                "num": 2,
+                "objectId": 24,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 230000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 28,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 251250,
+                "isClear": true,
+                "num": 5,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 273750,
+                "isClear": true,
+                "num": 2,
+                "objectId": 1526,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 310000,
+                "isClear": true,
+                "num": 4,
+                "objectId": 24,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 335000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 378000,
+                "isClear": true,
+                "num": 10,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 409500,
+                "isClear": true,
+                "num": 3,
+                "objectId": 1526,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 441000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1540,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 483000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1534,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 525000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1537,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 567000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 13,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 660000,
+                "isClear": true,
+                "num": 4,
+                "objectId": 1526,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 770000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2477,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 880000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2476,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 990000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2475,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1100000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2478,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1210000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1331000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1500000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1650000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1534,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1800000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1537,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2000000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2150000,
+                "isClear": true,
+                "num": 10,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2300000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2478,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2450000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2475,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2600000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2476,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2750000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2477,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2900000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2478,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 3100000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2477,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 3300000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2476,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 3500000,
+                "isClear": true,
+                "num": 3,
+                "objectId": 2475,
+                "objectType": 1,
+                "rarity": 0
+            }
+        ],
+        "guildTotalPoint": 7684338,
+        "guildUserDataList": [
+            {
+                "currentCharacterMstId": 308,
+                "currentTotalPower": 419613,
+                "isMine": false,
+                "level": 220,
+                "name": "Buns\u00b2",
+                "playerId": 425421630,
+                "point": 1014830,
+                "pointRaw": 1014830,
+                "recentLoginTime": "30m ago",
+                "subjugationPoint": 0,
+                "userId": 648919980
+            },
+            {
+                "currentCharacterMstId": 48,
+                "currentTotalPower": 343582,
+                "isMine": false,
+                "level": 220,
+                "name": "Norie",
+                "playerId": 584611097,
+                "point": 908556,
+                "pointRaw": 908556,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 785300657
+            },
+            {
+                "currentCharacterMstId": 22,
+                "currentTotalPower": 297894,
+                "isMine": false,
+                "level": 220,
+                "name": "Bigio",
+                "playerId": 241402960,
+                "point": 622080,
+                "pointRaw": 622080,
+                "recentLoginTime": "3h ago",
+                "subjugationPoint": 0,
+                "userId": 901938450
+            },
+            {
+                "currentCharacterMstId": 85,
+                "currentTotalPower": 330748,
+                "isMine": false,
+                "level": 220,
+                "name": "Nureha\u2728~",
+                "playerId": 351369628,
+                "point": 571474,
+                "pointRaw": 571474,
+                "recentLoginTime": "30m ago",
+                "subjugationPoint": 0,
+                "userId": 996251768
+            },
+            {
+                "currentCharacterMstId": 224,
+                "currentTotalPower": 309975,
+                "isMine": false,
+                "level": 220,
+                "name": "Kureha",
+                "playerId": 486045175,
+                "point": 557562,
+                "pointRaw": 557562,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 822858185
+            },
+            {
+                "currentCharacterMstId": 48,
+                "currentTotalPower": 389925,
+                "isMine": false,
+                "level": 220,
+                "name": "Bluhaer",
+                "playerId": 724566075,
+                "point": 527673,
+                "pointRaw": 527673,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 495021655
+            },
+            {
+                "currentCharacterMstId": 59,
+                "currentTotalPower": 288060,
+                "isMine": false,
+                "level": 220,
+                "name": "ForBeloved",
+                "playerId": 699962374,
+                "point": 479303,
+                "pointRaw": 479303,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 877057204
+            },
+            {
+                "currentCharacterMstId": 99,
+                "currentTotalPower": 282159,
+                "isMine": false,
+                "level": 216,
+                "name": "Sei",
+                "playerId": 597988322,
+                "point": 400035,
+                "pointRaw": 400035,
+                "recentLoginTime": "30m ago",
+                "subjugationPoint": 0,
+                "userId": 694774202
+            },
+            {
+                "currentCharacterMstId": 233,
+                "currentTotalPower": 335743,
+                "isMine": true,
+                "level": 220,
+                "name": "Nanuwu",
+                "playerId": 556112933,
+                "point": 366335,
+                "pointRaw": 366335,
+                "recentLoginTime": "Online",
+                "subjugationPoint": 0,
+                "userId": 244740463
+            },
+            {
+                "currentCharacterMstId": 25,
+                "currentTotalPower": 276610,
+                "isMine": false,
+                "level": 212,
+                "name": "qubei",
+                "playerId": 661345646,
+                "point": 342124,
+                "pointRaw": 342124,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 124681466
+            },
+            {
+                "currentCharacterMstId": 308,
+                "currentTotalPower": 308840,
+                "isMine": false,
+                "level": 220,
+                "name": "Dlizarus",
+                "playerId": 920520831,
+                "point": 290569,
+                "pointRaw": 290569,
+                "recentLoginTime": "30m ago",
+                "subjugationPoint": 0,
+                "userId": 486913491
+            },
+            {
+                "currentCharacterMstId": 20,
+                "currentTotalPower": 311110,
+                "isMine": false,
+                "level": 207,
+                "name": "scoppaa",
+                "playerId": 397560453,
+                "point": 282114,
+                "pointRaw": 282114,
+                "recentLoginTime": "30m ago",
+                "subjugationPoint": 0,
+                "userId": 783572053
+            },
+            {
+                "currentCharacterMstId": 577,
+                "currentTotalPower": 305572,
+                "isMine": false,
+                "level": 213,
+                "name": "Elize",
+                "playerId": 367432657,
+                "point": 202356,
+                "pointRaw": 202356,
+                "recentLoginTime": "6h ago",
+                "subjugationPoint": 0,
+                "userId": 872555907
+            },
+            {
+                "currentCharacterMstId": 21,
+                "currentTotalPower": 365703,
+                "isMine": false,
+                "level": 205,
+                "name": "Skythrix",
+                "playerId": 626529504,
+                "point": 10000,
+                "pointRaw": 10000,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 380425034
+            },
+            {
+                "currentCharacterMstId": 114,
+                "currentTotalPower": 357473,
+                "isMine": false,
+                "level": 220,
+                "name": "Notsus",
+                "playerId": 532988633,
+                "point": 4500,
+                "pointRaw": 4500,
+                "recentLoginTime": "1d ago",
+                "subjugationPoint": 0,
+                "userId": 584316823
+            }
+        ],
+        "howToPlayAnnounceMstId": 2288,
+        "isGuildRewardText": false,
+        "medalItemMstId": 2602,
+        "pointItemTextType": 0,
+        "subjugationPoint": 0,
+        "subjugationRankingRewardList": [],
+        "subjugationRewardList": [],
+        "userRewardList": [
+            {
+                "cardType": 0,
+                "clearPoint": 100,
+                "isClear": true,
+                "num": 20,
+                "objectId": 15,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 250,
+                "isClear": true,
+                "num": 20,
+                "objectId": 18,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 450,
+                "isClear": true,
+                "num": 20,
+                "objectId": 21,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 1,
+                "clearPoint": 500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 6427,
+                "objectType": 2,
+                "rarity": 4
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 650,
+                "isClear": true,
+                "num": 3,
+                "objectId": 24,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 900,
+                "isClear": true,
+                "num": 10,
+                "objectId": 16,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 1,
+                "clearPoint": 1000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 6427,
+                "objectType": 2,
+                "rarity": 4
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1200,
+                "isClear": true,
+                "num": 10,
+                "objectId": 19,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1400,
+                "isClear": true,
+                "num": 10,
+                "objectId": 22,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 1,
+                "clearPoint": 1500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 6427,
+                "objectType": 2,
+                "rarity": 4
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1800,
+                "isClear": true,
+                "num": 1,
+                "objectId": 28,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 1,
+                "clearPoint": 2000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 6427,
+                "objectType": 2,
+                "rarity": 4
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 2350,
+                "isClear": true,
+                "num": 5,
+                "objectId": 17,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 1,
+                "clearPoint": 2500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 6427,
+                "objectType": 2,
+                "rarity": 4
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 3300,
+                "isClear": true,
+                "num": 5,
+                "objectId": 20,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 4400,
+                "isClear": true,
+                "num": 5,
+                "objectId": 23,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 5500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 11,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 6600,
+                "isClear": true,
+                "num": 4,
+                "objectId": 24,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 7700,
+                "isClear": true,
+                "num": 2,
+                "objectId": 28,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 10000,
+                "isClear": true,
+                "num": 100,
+                "objectId": 900219,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 10395,
+                "isClear": true,
+                "num": 30,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 12000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 12,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 13860,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1539,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 17325,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1533,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 21945,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1536,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 26565,
+                "isClear": true,
+                "num": 10,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 32340,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1526,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 38115,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1333,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 43890,
+                "isClear": true,
+                "num": 1,
+                "objectId": 13,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 48500,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1540,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 52900,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1534,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 57750,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1537,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 67760,
+                "isClear": true,
+                "num": 30,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 77440,
+                "isClear": true,
+                "num": 1,
+                "objectId": 2478,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 87120,
+                "isClear": true,
+                "num": 40,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 96800,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2475,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 108900,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2476,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 121000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2477,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 133100,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 150000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 160000,
+                "isClear": true,
+                "num": 10,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 170000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 1526,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 180000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 1540,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 190000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 14,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 200000,
+                "isClear": true,
+                "num": 50,
+                "objectId": 0,
+                "objectType": 14,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 215000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2475,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 230000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2476,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 245000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2477,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 260000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 2478,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 275000,
+                "isClear": true,
+                "num": 10,
+                "objectId": 1521,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 290000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2475,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 310000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2476,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 330000,
+                "isClear": true,
+                "num": 2,
+                "objectId": 2477,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 350000,
+                "isClear": true,
+                "num": 1,
+                "objectId": 2478,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 370000,
+                "isClear": false,
+                "num": 1,
+                "objectId": 2613,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 550000,
+                "isClear": false,
+                "num": 1,
+                "objectId": 2612,
+                "objectType": 1,
+                "rarity": 0
+            },
+            {
+                "cardType": 0,
+                "clearPoint": 1000000,
+                "isClear": false,
+                "num": 1,
+                "objectId": 2611,
+                "objectType": 1,
+                "rarity": 0
+            }
+        ],
+        "userTotalPoint": 366335
+    },
+    "status": 200,
+    "url": "/api/guild/get_event_data"
+}

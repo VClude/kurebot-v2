@@ -1,0 +1,7 @@
+{
+    "payload": {
+        "gvgSp": 400
+    },
+    "status": 200,
+    "url": "/api/gvg/end_sp_recovery"
+}

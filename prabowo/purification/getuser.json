@@ -1,0 +1,11 @@
+{
+    "errors": [
+        {
+            "code": 40001,
+            "domain": "pokke/framework",
+            "reason": "\u30b2\u30fc\u30e0\u30b5\u30fc\u30d0\u306b\u30ed\u30b0\u30a4\u30f3\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002"
+        }
+    ],
+    "status": 401,
+    "url": "/api/user/get_user_data"
+}
